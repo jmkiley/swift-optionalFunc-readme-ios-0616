@@ -4,7 +4,7 @@ func brokenFirstItem(items: [String]) -> String {
 
 var fruits = ["apple", "banana", "grape"]
 brokenFirstItem(fruits)  // Works!
-fruits = []
+//fruits = []
 // Uncomment the next line to see the problem.
 // You will get an "index out of range" error.
 //brokenFirstItem(fruits)  // Breaks :-(
